@@ -22,7 +22,7 @@
   "devDependencies": {
     "@sapphire/eslint-config": "^5.0.6",
     "@sapphire/ts-config": "^5.0.3",
-    "@swc/core": "^1.15.6",
+    "@swc/core": "^1.15.7",
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
