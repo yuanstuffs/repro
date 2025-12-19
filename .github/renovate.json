@@ -1,5 +1,6 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "enabled": false,
     "rangeStrategy": "bump",
     "separateMajorMinor": true,
     "separateMinorPatch": false,
